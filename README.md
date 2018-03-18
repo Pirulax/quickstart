@@ -11,4 +11,4 @@
 
 >Ha elakarod dobni a módosításaidat, akkor használd a `git checkout` parancsot, a harmadik paraméter értelemszerűen a fájlnév, minden fájl esetén `.`.
 
->Ha le akarod kérni hogy mik a módosítások, mi van a stagingben, illetve mi nincs, használd a `git status` *parancsot.
+>Ha le akarod kérni hogy mik a módosítások, mi van a stagingben, illetve mi nincs, használd a `git status` parancsot.
